@@ -10,10 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>sample-multimodel-war</module>
-        <module>sample-multimodel-ejb</module>
-        <module>sampe-multimodel-ear</module>
+        <module>sample-multimodule-war</module>
+        <module>sample-multimodule-ejb</module>
+        <module>sample-multimodule-ear</module>
     </modules>
-
-
 </project>
